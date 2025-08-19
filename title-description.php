@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Meta Title, Description & Canonical
- * Description: Добавляет для каждой записи/страницы поля Meta Title, Meta Description и Canonical. Если Canonical не задан, используется стандартный WordPress.
+ * Description: Добавляет для записи/страницы Meta поля Title, Description и Canonical
  * Version: 1.1.0
  * Author: 7on
  * License: GPL-2.0-or-later

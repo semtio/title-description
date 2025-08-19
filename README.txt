@@ -21,11 +21,3 @@ A simple WordPress plugin that adds **Meta Title** and **Meta Description** fiel
 GPL-2.0-or-later
 
 
-------------
-
-
-git branch -m master main
-git push origin :master main
-git push origin -u main
-Test-Path .git
-False
