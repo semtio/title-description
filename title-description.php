@@ -40,7 +40,7 @@ function mtd_meta_box_callback($post) {
     echo '<textarea id="mtd_description" name="mtd_description" rows="4" style="width:100%">' . esc_textarea($meta_description) . '</textarea>';
 
     echo '<p><label for="mtd_canonical">' . __('Canonical URL (опционально)', 'meta-title-description') . '</label><br />';
-    echo '<input type="url" id="mtd_canonical" name="mtd_canonical" placeholder="https://example.com/your-preferred-url" value="' . esc_attr($meta_canonical) . '" style="width:100%" /></p>';
+    echo '<input type="url" id="mtd_canonical" name="mtd_canonical" placeholder="https://example.com/de-de/" value="' . esc_attr($meta_canonical) . '" style="width:100%" /></p>';
 }
 
 // -------------------------------
